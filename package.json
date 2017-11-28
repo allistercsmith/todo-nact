@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "eslint . && _mocha"
+    "test": "eslint . && _mocha",
+    "start": "node index.js"
   },
   "author": "Allister Smith <allistercsmith@gmail.com> (http://allistercsmith.com)",
   "license": "ISC",
