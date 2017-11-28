@@ -1,14 +1,14 @@
 {
   "name": "todo-event",
   "version": "0.0.1",
-  "description": "",
+  "description": "A simple todo API, using Nact as an actor model framework",
   "main": "index.js",
   "scripts": {
     "test": "eslint . && _mocha",
     "start": "node index.js"
   },
   "author": "Allister Smith <allistercsmith@gmail.com> (http://allistercsmith.com)",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "bluebird": "^3.5.1",
     "body-parser": "^1.18.2",
